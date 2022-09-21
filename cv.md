@@ -12,3 +12,8 @@
 
     *Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five 
 
+## Con<span style = 'color: blue'>tacts</span>
+
+    * Krytskiy Konstantin(@Lewiz1337) - <span style = 'color: blue'>my discord nickname</span>
+    * @SpaceCowboooy - <span style = 'color: blue'>telegram</span>
+    * +375-******** - tel
